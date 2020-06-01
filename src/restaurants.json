@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Restaurant 1",
+    "type": "take-away",
+    "price": "$$",
+    "isOpen": true
+  },
+  {
+    "name": "Restaurant 2",
+    "type": "eat-in",
+    "price": "$$$",
+    "isOpen": false
+  },
+  {
+    "name": "Restaurant 3",
+    "type": "delivery",
+    "price": "$",
+    "isOpen": true
+  },
+  {
+    "name": "Restaurant 4",
+    "type": "eat-in",
+    "price": "$",
+    "isOpen": true
+  },
+  {
+    "name": "Restaurant 5",
+    "type": "delivery",
+    "price": "$$$",
+    "isOpen": false
+  },
+  {
+    "name": "Restaurant 6",
+    "type": "eat-in",
+    "price": "$$",
+    "isOpen": false
+  },
+  {
+    "name": "Restaurant 7",
+    "type": "take-away",
+    "price": "$$",
+    "isOpen": true
+  },
+  {
+    "name": "Restaurant 8",
+    "type": "take-away",
+    "price": "$",
+    "isOpen": true
+  }
+]
