@@ -1,2 +1,0 @@
-# FilterExercise
-Created with CodeSandbox
